@@ -1,0 +1,12 @@
+{
+  "name": "letter-boxed-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "solve": "node solver.js",
+    "test": "jest"
+  },
+  "author": "Andrew Branch <branch@measuresforjustice.org> (http://www.measuresforjustice.org)",
+  "license": "ISC"
+}
